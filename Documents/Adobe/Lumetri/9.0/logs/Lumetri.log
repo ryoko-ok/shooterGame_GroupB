@@ -1,0 +1,18 @@
+Machine:   ats-hr420-dm03.fc.ca in domain 
+User:      r_oka
+Mode:      64-Bit
+Display:   Display not detectable
+Driver:    Driver not detectable
+CPU:       Name: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+           Model: 158, Family: 6, Stepping: 10 
+           Total Threads: 6
+           Features: MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 AVX F16C FMA AVX2 RDTSCP CLMUL AES RDRAND RDSEED POPCNT ABM BMI BMI2 ADX MOVBE
+Base path: /Applications/Adobe After Effects CC 2019/Adobe After Effects CC 2019.app/Contents/aerendercore.app/Contents/MacOS/
+Arguments: 
+
+13:34:15 [IrLog]           LogFile initialized
+13:34:15 [GlobalSettings]  Loading user settings from /Users/r_oka/Documents/Adobe/Lumetri/9.0/settings/User_Settings.xml
+13:38:32 [GlobalSettings]  Last object UID: 0x000000013:39:32 [GlobalSettings]  Last object UID: 0x00011EB7
+13:39:32 [IrLog]           Closing log file
+
+03/04/20
